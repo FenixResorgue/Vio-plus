@@ -36,5 +36,6 @@ Ajustes de rendimiento general y preparación para integración de nuevas palabr
 Comunidad e Ideas
 El proyecto es de código abierto y nos encanta el cotorreo técnico! Si quieres tirar ideas, proponer sintaxis locas, reportar si rompiste algo o simplemente ver quién más descargó el lenguaje, únete a la comunidad
 Atentamente:MSGL
+En visual Studio code:Vion+
 Link para dar opiniones es (https://discord.gg/FCGAw4844)
 
