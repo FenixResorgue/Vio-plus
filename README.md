@@ -1,13 +1,13 @@
-# Vio-plus
+# Vion+-plus
 Lenguaje programacion
 
-# Vio+ (Vion+) 
+# Vion+ (Vion+) 
 
 Un lenguaje de programación ligero, experimental y de sintaxis propia desarrollado en C++ para ejecutarse sin problemas en sistemas de recursos modestos.
 
-##  ¿Qué es Vio+?
+##  ¿Qué es Vion+?
 
-Vio+ nace como un experimento de desarrollo de software enfocado en crear un entorno de ejecución ágil y directo. Cuenta con una arquitectura que busca la máxima eficiencia de memoria y procesador, integrando además comportamientos sintácticos discretos y guiños (*easter eggs*) dentro del intérprete.
+Vion+ nace como un experimento de desarrollo de software enfocado en crear un entorno de ejecución ágil y directo. Cuenta con una arquitectura que busca la máxima eficiencia de memoria y procesador, integrando además comportamientos sintácticos discretos y guiños (*easter eggs*) dentro del intérprete.
 
 ##  Sintaxis Experimental y Comportamiento Oculto
 
