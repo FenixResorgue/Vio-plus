@@ -1,7 +1,7 @@
 # Vion+-plus
 Lenguaje programacion
 
-# Vion+ (Vion+) 
+# Vion+ 
 
 Un lenguaje de programación ligero, experimental y de sintaxis propia desarrollado en C++ para ejecutarse sin problemas en sistemas de recursos modestos.
 
